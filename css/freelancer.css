@@ -215,14 +215,14 @@ header.masthead {
         height: 20px;
         margin-top: -12px;
         text-align: center;
-        color: white; }
+        color: #BF0A30; }
         #articles .articles-item .articles-link .caption .caption-content i {
           margin-top: -12px; }
         #articles .articles-item .articles-link .caption .caption-content h3,
         #articles .articles-item .articles-link .caption .caption-content h4 {
           margin: 0; }
 
-#Articles * {
+#articles * {
   z-index: 2; }
 
 @media (min-width: 767px) {
@@ -409,12 +409,12 @@ footer {
     background-color: #001e4f; }
   .btn-success:hover {
     color: white;
-    border-color: #11866f;
+    border-color: #001e4f;
     background-color: #001e4f; }
   .btn-success.active, .btn-success:active,
   .open > .btn-success.dropdown-toggle {
     color: white;
-    border-color: #11866f;
+    border-color: #001e4f;
     background-color: #001e4f; }
     .btn-success.active.focus, .btn-success.active:focus, .btn-success.active:hover, .btn-success:active.focus, .btn-success:active:focus, .btn-success:active:hover,
     .open > .btn-success.dropdown-toggle.focus,
